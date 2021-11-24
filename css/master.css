@@ -1,0 +1,83 @@
+/*---------------------------------------------------------  Start Variables */
+:root {
+  --Dark-Cyan: hsl(185, 75%, 39%);
+  --Very-Dark-Desaturated-Blue: hsl(229, 23%, 23%);
+  --Dark-Grayish-Blue: hsl(227, 10%, 46%);
+  --Dark-Gray: hsl(0, 0%, 59%);
+  --Font-Size: 18px;
+}
+/*-----------------------------------------------------------  End Variables */
+/*------------------------------------------------------  Start Global Rules */
+-webkit-box-sizing: border-box;
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth;
+  transition: 0.5s;
+}
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  display: grid;
+  align-items: center;
+  min-height: 100vh;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 425px) {
+  .container {
+    width: 320px;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    width: 765px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/*--------------------------------------------------------  End Global Rules */
+/*--------------------------------------------------------------  Start Code */
+.container {
+}
+.container .top {
+}
+.container .top .image {
+}
+.container .top .image img {
+}
+.container .middle {
+}
+.container .middle h2 {
+}
+.container .middle span {
+}
+.container .middle p {
+}
+.container .bottom {
+}
+.container .bottom .box {
+}
+.container .bottom .box h2 {
+}
+.container .bottom .box p {
+}
+/*----------------------------------------------------------------  End Code */
