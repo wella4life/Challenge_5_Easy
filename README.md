@@ -1,6 +1,6 @@
 - Overview:
-  - [Profile Card Componenet with Grid and Flex](#the-challenge)
-  - [https://wella4life.github.io/Challenge_5_Easy/](#links)
+  - [Profile Card Componenet with Grid and Flex]
+  - [https://wella4life.github.io/Challenge_5_Easy/]
   - ![](images/Finished-Desktop.jpg)
 
  - Users should be able to:
